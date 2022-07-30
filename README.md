@@ -22,7 +22,7 @@ The answer to the question is printed and the program terminates.
 
 ## :framed_picture:	Screenshots
 
-![Project Screenshot](file:///D:/Downloads/Infromation_extraction_sc1.jpg?raw=true "Optional Title")
+![Infromation_extraction_sc1](https://user-images.githubusercontent.com/61319079/181915342-0f2b67c9-2992-421b-9b9f-53ee09ece63a.jpg)
 
 
 ## :man_technologist:	Authors
