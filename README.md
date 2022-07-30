@@ -20,7 +20,7 @@ Upon receiving a natural language question, the question translated into a SPARQ
 The answer to the question is printed and the program terminates.
 
 
-## :framed_picture:	Screenshots
+## :framed_picture:	Screenshot
 
 ![Infromation_extraction_sc1](https://user-images.githubusercontent.com/61319079/181915342-0f2b67c9-2992-421b-9b9f-53ee09ece63a.jpg)
 
